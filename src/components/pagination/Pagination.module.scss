@@ -1,0 +1,18 @@
+.pagination {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  color: white;
+  font-size: 1.5rem;
+  padding-bottom: 25px;
+
+  & .button {
+    padding: 5px 10px;
+    font-weight: 700;
+    background-color: goldenrod;
+    border: 2px solid darkblue;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+}
