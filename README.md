@@ -3,7 +3,7 @@ Front-end project using Harry Potter API 🪄, React and Vite ⚡
 
 ## To run de Project
 
-This exercise uses **Vite**. To start the project:
+This exercise uses **Vite** ⚡. To start the project:
 
 - Download this repository.
 - Run `npm install` in the terminal to install the `/node modules` folder,
