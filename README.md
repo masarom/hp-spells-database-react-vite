@@ -13,4 +13,4 @@ Goal of the project: practice React Hooks (useEffect, useState...), API REST (cl
 
 ## Contact
 Do you see any bugs, have comments or suggestions? [Contact me!](https://github.com/masarom)
-🌱🪄
+🌱
