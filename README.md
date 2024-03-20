@@ -1,5 +1,5 @@
 # Harry Potter Spells Database
-Front-end project using Harry Potter API, React and Vite ⚡
+Front-end project using Harry Potter API 🪄, React and Vite ⚡
 
 ## To run de Project
 
